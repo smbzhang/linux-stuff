@@ -1,3 +1,5 @@
+Linux 一些比较实用的脚本，比如映射 rm 到trash 等等
+
 # Linux Stuff by Lagerspetz
 
 This repo contains useful linux scripts.
